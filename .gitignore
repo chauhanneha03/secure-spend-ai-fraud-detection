@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+
+# Environment Variables
+.env
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Database Journal
+*.db-journal
+
+# Local data, trained artifacts, and secrets
+fraud_detection.db
+creditcard.csv
+models/*.pkl
+models/*.keras
+
+# Uploads
+uploads/
+
+# Screenshots generated locally
+screenshots/*.png
+screenshots/*.jpg
