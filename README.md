@@ -4,6 +4,12 @@ SecureSpend is a polished Flask portfolio application for evaluating credit-card
 
 > This project is an educational fraud-monitoring demonstration. It does not connect to a payment processor or make live authorization decisions.
 
+## Live demo
+
+Try the deployed application: **[SecureSpend on Render](https://secure-spend-ai-fraud-detection.onrender.com)**
+
+> The free Render service may take up to a minute to wake after inactivity. Use test/demo transaction details only; never enter real card information.
+
 ## Highlights
 
 - Secure registration and login with Werkzeug password hashing and user sessions
